@@ -1,5 +1,2 @@
-- 👋 Hi, I’m Ryan Baker
-- 👀 I’m interested in all things CS
-- 🌱 I’m currently learning Computer Science at UMass CICS
-- 📫 How to reach me: [rwbaker@umass.edu](mailto:rwbaker@umass.edu)
+- 👋 Hi, I’m Ryan
 - [My website](http://ryanwbaker.com)
